@@ -7,7 +7,7 @@
 ### ⭐ About Me
 
 - Student of `Common Core` @ **42 Porto**
-- Bachelors in Applied Languages
+- Graduated in Applied Languages @ **Universidade do Minho**
 - 3D Concept Artist
 
 ---
