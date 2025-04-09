@@ -21,8 +21,9 @@
   - Printf: ✅
   - Get Next Line: ✅
   - Born2beroot: ✅
-  - PushSwap:
-  - Pipex:
+  - PushSwap: . . .
+  - Pipex: 🟨
+  - So Long: 
 ---
 
 ### Skills:
