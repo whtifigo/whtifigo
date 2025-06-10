@@ -28,4 +28,4 @@
 
 ### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,vim,linux,solidity,latex,blender,ableton,ps,ai,pr,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,solidity,vim,linux,latex,blender,ableton,ps,ai,pr,notion)](https://skillicons.dev)
