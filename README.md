@@ -24,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,solidity,vim,linux,latex,blender,ableton,ps,ai,pr,notion)](https://skillicons.dev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whtifigo&repo=42_Libft&theme=codeSTACKr)](https://github.com/whtifigo/42_Libft) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whtifigo&repo=42_printf&theme=codeSTACKr)](https://github.com/whtifigo/42_printf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whtifigo&repo=42_Libft&theme=codeSTACKr&cache_seconds=1)](https://github.com/whtifigo/42_Libft) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whtifigo&repo=42_printf&theme=codeSTACKr&cache_seconds=1)](https://github.com/whtifigo/42_printf)
 
 
 ---
