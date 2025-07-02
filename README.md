@@ -6,6 +6,8 @@
 
 ### ⭐ About Me
 
+- **H.E.R DAO** Contributor
+- SheFi Cohort 14
 - Student of `Common Core` @ **42 Porto**
 - Graduated in Applied Languages @ **Universidade do Minho**
 - 3D Concept Artist
